@@ -1,0 +1,25 @@
+{
+  "name": "bpgnateli",
+  "version": "1.0.0",
+  "homepage": "https://github.com/GWSMaster/BPGNateli",
+  "authors": [
+    "Levan Lotuashvili <gwsmaster@gmail.com>"
+  ],
+  "description": "BPG Nateli Mtavruli georgian font with css",
+  "main": "css/bpgnateli.min.css",
+  "keywords": [
+    "bpg",
+    "nateli",
+    "georgian",
+    "font",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
