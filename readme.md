@@ -15,7 +15,7 @@ bower install bpgnateli
 
 include bpgnateli.min.css file to your html file
 
-```css
+```html
 <link rel="stylesheet" href="bower_components/bpgnateli/css/bpgnateli.min.css" />
 ```
 
