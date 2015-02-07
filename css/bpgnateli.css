@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'BPGNateli';
+	src: url('../fonts/bpg_nateli_mtavruli.eot');
+	src: local('☺'), url('../fonts/bpg_nateli_mtavruli.woff') format('woff'), url('../fonts/bpg_nateli_mtavruli.ttf') format('truetype'), url('../fonts/bpg_nateli_mtavruli.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
